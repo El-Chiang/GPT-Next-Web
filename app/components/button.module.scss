@@ -13,6 +13,8 @@
   outline: none;
   border: none;
   color: var(--black);
+  font-family: "FZXIANGSU12", "Noto Sans SC", "SF Pro SC", "SF Pro Text", "SF Pro Icons",
+  "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 
   &[disabled] {
     cursor: not-allowed;

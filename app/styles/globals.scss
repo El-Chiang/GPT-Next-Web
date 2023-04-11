@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'FZXIANGSU12';
+  src: url('/fonts/FZXIANGSU12.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 @mixin light {
   /* color */
   --white: white;
@@ -90,7 +97,7 @@ body {
   justify-content: center;
   align-items: center;
   user-select: none;
-  font-family: "Noto Sans SC", "SF Pro SC", "SF Pro Text", "SF Pro Icons",
+  font-family: "FZXIANGSU12", "Noto Sans SC", "SF Pro SC", "SF Pro Text", "SF Pro Icons",
     "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 
   @media only screen and (max-width: 600px) {
