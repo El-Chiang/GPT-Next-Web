@@ -205,6 +205,11 @@
   white-space: nowrap;
 }
 
+.chat-item-date {
+  font-family: "FZXIANGSU12", "Noto Sans SC", "SF Pro SC", "SF Pro Text", "SF Pro Icons",
+  "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
 .sidebar-tail {
   display: flex;
   justify-content: space-between;
@@ -351,6 +356,8 @@
 
 .chat-message-action-date {
   color: #aaa;
+  font-family: "FZXIANGSU12", "Noto Sans SC", "SF Pro SC", "SF Pro Text", "SF Pro Icons",
+  "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 .chat-input-panel {
