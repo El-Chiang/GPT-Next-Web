@@ -41,5 +41,5 @@ public/prompts.json
 .vscode
 .idea
 
-yarn.lock
-package-lock.json
+# docker-compose env files
+.env
